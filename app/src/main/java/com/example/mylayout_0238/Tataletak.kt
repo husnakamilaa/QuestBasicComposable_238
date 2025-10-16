@@ -66,3 +66,10 @@ fun TataletakColumn2(modifier: Modifier) {
     }
 
 }
+
+@Composable
+fun TataletakColumnRow(modifier: Modifier) {
+    Column() {
+
+    }
+}
