@@ -20,6 +20,10 @@ fun TataletakColumn(modifier: Modifier) {
     }
 }
 
+fun TataletakRow(modifier: Modifier) {
+
+}
+
 @Composable
 fun TataletakColumn2(modifier: Modifier) {
     Column(modifier = Modifier
